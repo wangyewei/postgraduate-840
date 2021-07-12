@@ -2,4 +2,4 @@
 ## 西南交通大学
 
 
-### [day1：以下概念属于存储结构](https://github.com/WangYeWei/postgraduate-840/issues/1)
+### [day01：以下概念属于存储结构](https://github.com/WangYeWei/postgraduate-840/issues/1)
