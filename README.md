@@ -1,4 +1,3 @@
-
 # 考研840 数据结构和程序设计真题
 ## 西南交通大学
 
@@ -12,3 +11,6 @@
 ### [day04：数据元素之间的关系在计算机中两种不同的表示方式](https://github.com/WangYeWei/postgraduate-840/issues/4)
 
 ### [day05：中缀表达式对应的前缀表达式](https://github.com/WangYeWei/postgraduate-840/issues/5)
+
+### [day06：求拥有200个节点的完全二叉树的2度结点数](https://github.com/WangYeWei/postgraduate-840/issues/5)
+
