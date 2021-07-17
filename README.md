@@ -12,5 +12,5 @@
 
 ### [day05：中缀表达式对应的前缀表达式](https://github.com/WangYeWei/postgraduate-840/issues/5)
 
-### [day06：求拥有200个节点的完全二叉树的2度结点数](https://github.com/WangYeWei/postgraduate-840/issues/5)
+### [day06：求拥有200个节点的完全二叉树的2度结点数](https://github.com/WangYeWei/postgraduate-840/issues/6)
 
