@@ -14,3 +14,6 @@
 
 ### [day06：求拥有200个节点的完全二叉树的2度结点数](https://github.com/WangYeWei/postgraduate-840/issues/6)
 
+### [day07：选择支点快速排序后的下标](https://github.com/WangYeWei/postgraduate-840/issues/6)
+
+
