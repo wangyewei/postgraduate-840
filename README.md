@@ -16,4 +16,4 @@
 
 ### [day07：选择支点快速排序后的下标](https://github.com/WangYeWei/postgraduate-840/issues/7)
 
-
+### [day08：在度为3的树中，度为3和2的节点个数分别为1和2，求度为0的节点数](https://github.com/WangYeWei/postgraduate-840/issues/8)
